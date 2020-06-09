@@ -7,7 +7,8 @@
           { "type": "button", "text": "Hello", "row": 1, "column": 0, "actionType": "alert", "actionParms": "Hello World" },
           { "type": "button", "text": "Robot", "row": 1, "column": 1, "actionType": "alert", "actionParms": "beep boop" },
           { "type": "button", "text": "Unknown", "row": 1, "column": 2, "actionType": "alert", "actionParms": "404: Action Not Found" },
-          { "type": "button", "text": "Refresh", "row": 8, "column": 3, "actionType": "refresh", "actionParms": "Refreshing..."}
+          { "type": "button", "text": "Refresh", "row": 8, "column": 3, "actionType": "refresh", "actionParms": "Refreshing..."},
+          { "type": "button", "text": "Text to Speech", "row": 8, "column": 0, "actionType": "speak" }
         ]
       },
       {
@@ -17,7 +18,8 @@
           { "type": "button", "text": "Wizard Duel", "row": 1, "column": 0, "actionType": "alert", "actionParms": "Avada Kedavra" },
           { "type": "button", "text": "Gandalf", "row": 1, "column": 1, "actionType": "alert", "actionParms": "You shall not pass!" },
           { "type": "button", "text": "Greeting", "row": 1, "column": 2, "actionType": "alert", "actionParms": "Live long and prosper" },
-          { "type": "button", "text": "Refresh", "row": 8, "column": 3, "actionType": "refresh", "actionParms": "Refreshing..."}
+          { "type": "button", "text": "Refresh", "row": 8, "column": 3, "actionType": "refresh", "actionParms": "Refreshing..."},
+          { "type": "button", "text": "Text to Speech", "row": 8, "column": 0, "actionType": "speak" }
         ]
       },
       {
@@ -27,7 +29,8 @@
           { "type": "button", "text": "Road Work Ahead", "row": 1, "column": 0, "actionType": "alert", "actionParms": "Uh yeah I sure hope it does" },
           { "type": "button", "text": "Hurricane Katrina", "row": 1, "column": 1, "actionType": "alert", "actionParms": "More like hurricane tortilla!" },
           { "type": "button", "text": "What are those?", "row": 1, "column": 2, "actionType": "alert", "actionParms": "They are my CROCS" },
-          { "type": "button", "text": "Refresh", "row": 8, "column": 3, "actionType": "refresh", "actionParms": "Refreshing..."}
+          { "type": "button", "text": "Refresh", "row": 8, "column": 3, "actionType": "refresh", "actionParms": "Refreshing..."},
+          { "type": "button", "text": "Text to Speech", "row": 8, "column": 0, "actionType": "speak" }
         ]
       }
     ]
