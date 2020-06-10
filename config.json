@@ -3,7 +3,7 @@
       {
         "pageName": "Test Page",
         "controls": [
-          { "type": "label", "text": "Test Buttons", "row": 0, "column": 0, "columnSpan": 2 },
+          { "type": "label", "text": "Test Buttons", "row": 0, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0 },
           { "type": "button", "text": "Hello", "row": 1, "column": 0, "actionType": "alert", "actionParms": "Hello World", "volume": 0.75, "pitch": 1.0 },
           { "type": "button", "text": "Robot", "row": 1, "column": 1, "actionType": "alert", "actionParms": "beep boop", "volume": 0.75, "pitch": 1.0 },
           { "type": "button", "text": "Unknown", "row": 1, "column": 2, "actionType": "alert", "actionParms": "404: Action Not Found", "volume": 0.75, "pitch": 1.0 },
@@ -13,7 +13,7 @@
       {
         "pageName": "Nerd Page",
         "controls": [
-          { "type": "label", "text": "A Page for Nerds", "row": 0, "column": 0, "columnSpan": 2 },
+          { "type": "label", "text": "A Page for Nerds", "row": 0, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0},
           { "type": "button", "text": "Wizard Duel", "row": 1, "column": 0, "actionType": "alert", "actionParms": "Avada Kedavra", "volume": 0.75, "pitch": 1.0 },
           { "type": "button", "text": "Gandalf", "row": 1, "column": 1, "actionType": "alert", "actionParms": "You shall not pass!", "volume": 0.75, "pitch": 1.0 },
           { "type": "button", "text": "Greeting", "row": 1, "column": 2, "actionType": "alert", "actionParms": "Live long and prosper", "volume": 0.75, "pitch": 1.0 },
@@ -23,7 +23,7 @@
       {
         "pageName": "Vine Page",
         "controls": [
-          { "type": "label", "text": "Vine", "row": 0, "column": 0, "columnSpan": 2 },
+          { "type": "label", "text": "Vine", "row": 0, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0 },
           { "type": "button", "text": "Road Work Ahead", "row": 1, "column": 0, "actionType": "alert", "actionParms": "Uh yeah I sure hope it does", "volume": 0.75, "pitch": 1.0},
           { "type": "button", "text": "Hurricane Katrina", "row": 1, "column": 1, "actionType": "alert", "actionParms": "More like hurricane tortilla!", "volume": 0.75, "pitch": 1.0 },
           { "type": "button", "text": "What are those?", "row": 1, "column": 2, "actionType": "alert", "actionParms": "They are my CROCS", "volume": 0.75, "pitch": 1.0 },
