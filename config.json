@@ -17,7 +17,8 @@
       {
         "pageName": "Nerd Page",
         "controls": [
-          { "type": "label", "text": "A Page for Nerds", "row": 0, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, "fontsize": 24 },
+          { "type": "label", "text": "A Page for Nerds", "row": 0, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
+          "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 24 },
           { "type": "button", "text": "Wizard Duel", "row": 1, "column": 0, "actionType": "alert", "actionParms": "Avada Kedavra", "volume": 0.75, "pitch": 1.0,
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
           { "type": "button", "text": "Gandalf", "row": 1, "column": 1, "actionType": "alert", "actionParms": "You shall not pass!", "volume": 0.75, "pitch": 1.0,
