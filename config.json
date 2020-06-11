@@ -11,7 +11,7 @@
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
           { "type": "button", "text": "Unknown", "row": 1, "column": 2, "actionType": "alert", "actionParms": "404: Action Not Found", "volume": 0.75, "pitch": 1.0,
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
-          { "type": "button", "text": "Text to Speech", "row": 8, "column": 3, "actionType": "speak", "volume": 0.75, "pitch": 1.0, 
+          { "type": "button", "text": "Text to Speech", "row": 8, "column": 3, "actionType": "speaktoggle", "volume": 0.75, "pitch": 1.0, 
           "tcolor": "#000000", "bcolor": "#feffb8", "fontsize": 16 }
         ]
       },
@@ -26,7 +26,7 @@
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
           { "type": "button", "text": "Greeting", "row": 1, "column": 2, "actionType": "alert", "actionParms": "Live long and prosper", "volume": 0.75, "pitch": 1.0,
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
-          { "type": "button", "text": "Text to Speech", "row": 8, "column": 3, "actionType": "speak", "volume": 0.75, "pitch": 1.0,
+          { "type": "button", "text": "Text to Speech", "row": 8, "column": 3, "actionType": "speaktoggle", "volume": 0.75, "pitch": 1.0,
           "tcolor": "#000000", "bcolor": "#feffb8", "fontsize": 16 }
         ]
       },
@@ -41,7 +41,7 @@
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
           { "type": "button", "text": "What are those?", "row": 1, "column": 2, "actionType": "alert", "actionParms": "They are my CROCS", "volume": 0.75, "pitch": 1.0,
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
-          { "type": "button", "text": "Text to Speech", "row": 8, "column": 3, "actionType": "speak", "volume": 0.75, "pitch": 1.0,
+          { "type": "button", "text": "Text to Speech", "row": 8, "column": 3, "actionType": "speaktoggle", "volume": 0.75, "pitch": 1.0,
           "tcolor": "#000000", "bcolor": "#feffb8", "fontsize": 16 }
         ]
       }
