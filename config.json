@@ -1,6 +1,16 @@
 { 
     "pages": [
       {
+        "pageName": "Settings",
+        "controls": [
+          { "type": "label", "text": "Settings", "row": 0, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
+          "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 24 },
+          { "type": "label", "text": "Text to Speech", "row": 1, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
+          "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 16 },
+          { "type": "switch", "row": 1, "column": 2, "volume": 0.75, "pitch": 1.0 }
+        ]
+      },
+      {
         "pageName": "Test Page",
         "controls": [
           { "type": "label", "text": "Test Buttons", "row": 0, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
@@ -10,10 +20,7 @@
           { "type": "button", "text": "Robot", "row": 1, "column": 1, "actionType": "alert", "actionParms": "beep boop", "volume": 0.75, "pitch": 1.0,
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
           { "type": "button", "text": "Unknown", "row": 1, "column": 2, "actionType": "alert", "actionParms": "404: Action Not Found", "volume": 0.75, "pitch": 1.0,
-          "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
-          { "type": "label", "text": "Text To Speech", "row": 8, "column": 2, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
-          "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 16 },
-          { "type": "switch", "row": 8, "column": 3, "volume": 0.75, "pitch": 1.0 }
+          "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 }
         ]
       },
       {
@@ -26,10 +33,7 @@
           { "type": "button", "text": "Gandalf", "row": 1, "column": 1, "actionType": "alert", "actionParms": "You shall not pass!", "volume": 0.75, "pitch": 1.0,
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
           { "type": "button", "text": "Greeting", "row": 1, "column": 2, "actionType": "alert", "actionParms": "Live long and prosper", "volume": 0.75, "pitch": 1.0,
-          "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
-          { "type": "label", "text": "Text To Speech", "row": 8, "column": 2, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
-          "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 16 },
-          { "type": "switch", "row": 8, "column": 3, "volume": 0.75, "pitch": 1.0 }
+          "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 }
         ]
       },
       {
@@ -42,10 +46,7 @@
           { "type": "button", "text": "Hurricane Katrina", "row": 1, "column": 1, "actionType": "alert", "actionParms": "More like hurricane tortilla!", "volume": 0.75, "pitch": 1.0,
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
           { "type": "button", "text": "What are those?", "row": 1, "column": 2, "actionType": "alert", "actionParms": "They are my CROCS", "volume": 0.75, "pitch": 1.0,
-          "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
-          { "type": "label", "text": "Text To Speech", "row": 8, "column": 2, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
-          "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 16 },
-          { "type": "switch", "row": 8, "column": 3, "volume": 0.75, "pitch": 1.0 }
+          "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 }
         ]
       }
     ]
