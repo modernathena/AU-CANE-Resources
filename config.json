@@ -3,7 +3,7 @@
       {
         "pageName": "Settings",
         "controls": [
-          { "type": "label", "text": "Startup Settings", "row": 0, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
+          { "type": "label", "text": "Startup Settings", "row": 0, "column": 0, "columnSpan": 4, "volume": 0.75, "pitch": 1.0, 
           "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 24 },
           { "type": "label", "text": "Text to Speech", "row": 1, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
           "tcolor": "#000000", "bcolor": "#e8e8e8", "fontsize": 16 },
@@ -13,7 +13,7 @@
       {
         "pageName": "Test Page",
         "controls": [
-          { "type": "label", "text": "Test Buttons", "row": 0, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
+          { "type": "label", "text": "Test Buttons", "row": 0, "column": 0, "columnSpan": 4, "volume": 0.75, "pitch": 1.0, 
             "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 24 },
           { "type": "button", "text": "Hello", "row": 1, "column": 0, "actionType": "alert", "actionParms": "Hello World", "volume": 0.75, "pitch": 1.0,
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
@@ -26,7 +26,7 @@
       {
         "pageName": "Nerd Page",
         "controls": [
-          { "type": "label", "text": "A Page for Nerds", "row": 0, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
+          { "type": "label", "text": "A Page for Nerds", "row": 0, "column": 0, "columnSpan": 4, "volume": 0.75, "pitch": 1.0, 
           "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 24 },
           { "type": "button", "text": "Wizard Duel", "row": 1, "column": 0, "actionType": "alert", "actionParms": "Avada Kedavra", "volume": 0.75, "pitch": 1.0,
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
@@ -39,7 +39,7 @@
       {
         "pageName": "Vine Page",
         "controls": [
-          { "type": "label", "text": "Vine", "row": 0, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
+          { "type": "label", "text": "Vine", "row": 0, "column": 0, "columnSpan": 4, "volume": 0.75, "pitch": 1.0, 
             "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 24 },
           { "type": "button", "text": "Road Work Ahead", "row": 1, "column": 0, "actionType": "alert", "actionParms": "Uh yeah I sure hope it does", "volume": 0.75, "pitch": 1.0,
           "tcolor": "#ffffff", "bcolor": "#000080", "fontsize": 16 },
