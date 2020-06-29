@@ -7,7 +7,7 @@
           "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 24 },
           { "type": "label", "text": "Text to Speech", "row": 1, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
           "tcolor": "#000000", "bcolor": "#e8e8e8", "fontsize": 16 },
-          { "type": "switch", "row": 1, "column": 2, "volume": 0.75, "pitch": 1.0, "bcolor": "#e8e8e8" }
+          { "type": "tts_switch", "row": 1, "column": 2, "volume": 0.75, "pitch": 1.0, "bcolor": "#e8e8e8" }
         ]
       },
       {
