@@ -63,8 +63,8 @@
           { "type": "label", "text": "Vertical Slider", "row": 4, "column": 0, "columnSpan": 3, "volume": 0.75, "pitch": 1.0, 
           "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 16 },
           { "type": "v_slider", "row": 5, "column": 0, "rowSpan": 2, "actionType": "alert", "actionParms": "vertical slider", "volume": 0.75, 
-          "pitch": 1.0, "slideMax": 100 },   
-          { "type": "label", "text": "Current Value: 0", "row": 6, "column": 0, "columnSpan": 3, "volume": 0.75, "pitch": 1.0, 
+          "pitch": 1.0, "slideMax": 50 },   
+          { "type": "label", "text": "Current Value: 0", "row": 7, "column": 0, "columnSpan": 3, "volume": 0.75, "pitch": 1.0, 
           "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 12 }    
         ]
       }
