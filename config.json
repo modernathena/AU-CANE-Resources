@@ -6,8 +6,8 @@
           { "type": "label", "text": "Startup Settings", "row": 0, "column": 0, "columnSpan": 3, "volume": 0.75, "pitch": 1.0, 
           "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 24 },
           { "type": "label", "text": "Text to Speech", "row": 1, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
-          "tcolor": "#000000", "bcolor": "#e8e8e8", "fontsize": 16 },
-          { "type": "tts_switch", "row": 1, "column": 2, "volume": 0.75, "pitch": 1.0, "bcolor": "#e8e8e8" }
+          "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 16 },
+          { "type": "tts_switch", "row": 1, "column": 2, "volume": 0.75, "pitch": 1.0, "bcolor": "#ffffff" }
         ]
       },
       {
@@ -64,7 +64,7 @@
           "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 16 },
           { "type": "v_slider", "row": 5, "column": 0, "rowSpan": 2, "actionType": "alert", "actionParms": "vertical slider", "volume": 0.75, 
           "pitch": 1.0, "slideMax": 50 },   
-          { "type": "label", "text": "Current Value: 0", "row": 7, "column": 0, "columnSpan": 3, "volume": 0.75, "pitch": 1.0, 
+          { "type": "label", "text": "Current Value: 0", "row": 7, "column": 1, "columnSpan": 3, "volume": 0.75, "pitch": 1.0, 
           "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 12 }    
         ]
       }
