@@ -65,7 +65,7 @@
       {
         "pageName": "Joystick Page",
         "controls": [
-          { "type": "joystick", "row": "1", "column": 1, "bcolor": "#e8e8e8" }
+          { "type": "joystick", "row": 0, "column": 0, "bcolor": "#e8e8e8" }
         ]
       }
     ]
