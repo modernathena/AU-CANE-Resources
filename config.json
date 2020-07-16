@@ -9,6 +9,19 @@
           "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 16 },
           { "type": "tts_switch", "row": 1, "column": 2, "volume": 0.75, "pitch": 1.0, "bcolor": "#ffffff" }
         ]
+      },
+      {
+          "pageName": "Directive Buttons",
+          "controls": [
+              { "type": "button", "text": "Forward", "row": 0, "column": 1, "actionType": "alert", "actionParms": "Forward", "volume": 0.75, "pitch": 1.0,
+                "tcolor": "#000000", "bcolor": "#a3a3a3", "fontSize": 16 },
+              { "type": "button", "text": "Left", "row": 1, "column": 0, "actionType": "alert", "actionParms": "Left", "volume": 0.75, "pitch": 1.0,
+                "tcolor": "#000000", "bcolor": "#a3a3a3", "fontSize": 16 },
+              { "type": "button", "text": "Right", "row": 1, "column": 2, "actionType": "alert", "actionParms": "Right", "volume": 0.75, "pitch": 1.0,
+                "tcolor": "#000000", "bcolor": "#a3a3a3", "fontSize": 16 },
+              { "type": "button", "text": "Back", "row": 2, "column": 1, "actionType": "alert", "actionParms": "Back", "volume": 0.75, "pitch": 1.0,
+                "tcolor": "#000000", "bcolor": "#a3a3a3", "fontSize": 16 }
+          ]
       }
     ]
 }
