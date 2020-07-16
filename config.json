@@ -10,7 +10,7 @@
           { "type": "tts_switch", "row": 1, "column": 2, "volume": 0.75, "pitch": 1.0, "bcolor": "#ffffff" },
           { "type": "label", "text": "Display Mode", "row": 2, "column": 0, "volume": 0.75, "pitch": 1.0,
           "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 16 },
-          { "type": "displaymodepicker", "text": "Light (Default)", "row": 2, "column": 2, "volume": 0.75, "pitch": 1.0 }
+          { "type": "displaymodepicker", "text": "Choose a display mode", "row": 2, "column": 2, "volume": 0.75, "pitch": 1.0, "fontsize": 10 }
         ]
       },
       {
