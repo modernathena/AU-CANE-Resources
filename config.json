@@ -8,9 +8,9 @@
           { "type": "label", "text": "Text to Speech", "row": 1, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0, 
           "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 16 },
           { "type": "tts_switch", "row": 1, "column": 2, "volume": 0.75, "pitch": 1.0, "bcolor": "#ffffff" },
-          { "type": "label", "text": "Display Mode", "row": 2, "column": 0, "columnSpan": 2, "volume": 0.75, "pitch": 1.0,
+          { "type": "label", "text": "Display Mode", "row": 2, "column": 0, "columnSpan": 3, "volume": 0.75, "pitch": 1.0,
           "tcolor": "#000000", "bcolor": "#ffffff", "fontsize": 16 },
-          { "type": "displaymodepicker", "text": "Choose a display mode", "row": 2, "column": 2, "volume": 0.75, "pitch": 1.0, "fontsize": 10 }
+          { "type": "displaymodepicker", "text": "Choose a display mode", "row": 3, "column": 0, "columnSpan": 3, "volume": 0.75, "pitch": 1.0, "fontsize": 12 }
         ]
       },
       {
